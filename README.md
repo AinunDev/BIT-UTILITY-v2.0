@@ -20,7 +20,7 @@ BIT-UTILITY v2.0 is a **Python-based command-line tool** for Bitcoin key and add
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/AinunDev/BIT-UTILITY.git
+https://github.com/AinunDev/BIT-UTILITY-v2.0.git
 cd BIT-UTILITY-v2.0
 pip install -r requirements.txt
 python BIT-UTILITY-v2.0.py
