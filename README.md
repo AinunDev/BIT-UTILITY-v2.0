@@ -1,4 +1,4 @@
-# ░▒▓█ BIT-UTILITY v2.0 █▓▒░
+# BIT-UTILITY v2.0
 
 BIT-UTILITY v2.0 is a **Python-based command-line tool** for Bitcoin key and address operations. It supports conversion, verification, and derivation of private keys, public keys, and Bitcoin addresses across **Legacy (P2PKH)**, **Nested SegWit (P2SH-P2WPKH)**, and **Native SegWit (Bech32)** formats.
 
