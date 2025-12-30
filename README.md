@@ -60,7 +60,7 @@ nuitka --standalone --onefile --windows-icon-from-ico=icon.png BIT-UTILITY-v2.0.
 ### Public Key Operations
 
 * Compress ↔ Uncompress
-* Public Key → Addresses
+* Public Key ↔ Addresses
 * Public Key → RMD160 Hash
 * Verify Public Key
 
