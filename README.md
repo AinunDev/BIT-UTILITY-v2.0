@@ -31,7 +31,7 @@ python BIT-UTILITY-v2.0.py
 Compile to a standalone `.exe` using **Nuitka**:
 
 ```bash
-nuitka --standalone --onefile BIT-UTILITY-v2.0.py
+nuitka --standalone --onefile --windows-icon-from-ico=icon.png BIT-UTILITY-v2.0.py
 ```
 
 > You can run the executable without Python or dependencies.
